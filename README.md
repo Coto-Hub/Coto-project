@@ -12,3 +12,10 @@ SMTP_PORT=
 SMTP_USER=
 SMTP_PASS=
 ```
+
+Pour utiliser le projet il vous suffit d'exécuter les commandes suivantes :
+
+```
+npm i
+npm start
+```
